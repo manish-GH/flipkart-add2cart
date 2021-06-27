@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+      "brand": "PUMA",
+      "name": "Full Sleeve Sports Jacket-1",
+      "img": "https://rukminim1.flixcart.com/image/800/960/khp664w0/jacket/h/r/b/m-58970001-puma-original-imafxmg8eff6tugt.jpeg?q=50",
+        "price": 1574
+    },
+    {
+        "id": 2,
+      "brand": "NIKE",
+      "name": "Full Sleeve Sports Jacket-2",
+      "img": "https://rukminim1.flixcart.com/image/800/960/kkoc70w0/jacket/f/t/j/m-cu4954-451-nike-original-imafzyzdytqxkvgd.jpeg?q=50",
+        "price": 2097
+    },
+    {
+        "id": 3,
+      "brand": "WILDCRAFT",
+      "name": "Sleeveless Quilted Jacket-1",
+      "img": "https://rukminim1.flixcart.com/image/800/960/k4324y80/jacket/3/2/g/m-41336-wildcraft-original-imafnfr5yknj7rvz.jpeg?q=50",
+        "price": 1754
+    },
+    {
+        "id": 4,
+      "brand": "METRONAUT",
+      "name": "Full Sleeve Casual Jacket-1",
+      "img": "https://rukminim1.flixcart.com/image/800/960/jzhb24w0/jacket/m/v/4/m-maw19jkt014a-metronaut-original-imafjbgthybhrc8y.jpeg?q=50",
+        "price": 749
+    },
+    {
+        "id": 5,
+      "brand": "ADIDAS",
+      "name": "Full Sleeve Sports Jacket-3",
+      "img": "https://rukminim1.flixcart.com/image/800/960/klzhq4w0/jacket/4/j/w/m-gk9439-adidas-original-imagyzmfhpqkr5z9.jpeg?q=50",
+        "price": 2199
+    },
+    {
+        "id": 6,
+      "brand": "DUCATI",
+      "name": "Full Sleeve Bomber Jacket-1",
+      "img": "https://rukminim1.flixcart.com/image/800/960/kgv5x8w0/jacket/v/w/x/m-dtaw20jk022a-ducati-original-imafxyb7nhngpbum.jpeg?q=50",
+        "price": 1814
+    },
+    {
+        "id": 7,
+      "brand": "VAN HEUSEN",
+      "name": "Full Sleeve Bomber Jacket-2",
+      "img": "https://rukminim1.flixcart.com/image/800/960/k3khevk0/jacket/v/d/z/m-vwjkfrghm07759-van-heusen-original-imafmnjvf5gp3rgr.jpeg?q=50",
+        "price": 1649
+    },
+    {
+        "id": 8,
+      "brand": "CHRISTY WORLD",
+      "name": "Full Sleeve Casual Jacket-2",
+      "img": "https://rukminim1.flixcart.com/image/800/960/kfk0e4w0/jacket/h/7/k/s-ladies-jkt-103-purple-christy-world-original-imafvznctq6me4nh.jpeg?q=50",
+        "price": 649
+    },
+    {
+        "id": 9,
+      "brand": "COLLINS",
+      "name": "Full Sleeve Quilted Jacket-2",
+      "img": "https://rukminim1.flixcart.com/image/800/960/kk5rgy80/jacket/r/c/o/m-88404fk-breil-by-fort-collins-original-imafzke7yg4nyghb.jpeg?q=50",
+        "price": 779
+    },
+    {
+        "id": 10,
+      "brand": "ANN SPRINGS",
+      "name": "Full Sleeve Casual Jacket-3",
+      "img": "https://rukminim1.flixcart.com/image/800/960/k547l3k0/jacket/b/p/8/s-aw19annja008c-ann-springs-original-imafnur5zv2gnadh.jpeg?q=50",
+        "price": 645
+    }
+]
